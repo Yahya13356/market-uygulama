@@ -18,4 +18,4 @@ uygulamadaki eksiklikler:
 
 
 
-<link  href="https://www.youtube.com/@uveysaytac"  target="blank" img< width="512" height="512" alt="market" src="[https://github.com/user-attachments/assets/db7d7381-4238-4cc2-9399-32a30a11fb3a](https://www.shutterstock.com/image-vector/transparent-market-icon-png-vector-260nw-1946241562.jpg)"  />  />
+https://www.youtube.com/@uveysaytac
