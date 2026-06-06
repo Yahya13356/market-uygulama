@@ -14,3 +14,4 @@ uygulamadaki eksiklikler:
                         9)bakiye sistemi eglirse alış verişten süpriz bakiye kazanılabilir
                         10) çark olabilir çıkan sonuca göre indrim,hediye verilebilrir
                         11) 💪💪💪ZOR İŞ: uygulama'ya hesap girişi olabilir ve hesabına giren kişi bakiyesni haracaya bilir.
+<img width="512" height="512" alt="market" src="https://github.com/user-attachments/assets/db7d7381-4238-4cc2-9399-32a30a11fb3a" />
