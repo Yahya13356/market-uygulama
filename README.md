@@ -19,7 +19,3 @@ uygulamadaki eksiklikler:
 
 
 https://www.youtube.com/@uveysaytac
-
-
-
-![Logo]([https://site.com/resim.png](https://www.shutterstock.com/image-vector/transparent-market-icon-png-vector-260nw-1946241562.jpg))
